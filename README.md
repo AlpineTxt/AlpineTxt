@@ -17,17 +17,17 @@
 
 ### 🔮 Future Roadmap (Upcoming Projects)
 
-#### 🎵 **Music App**
+![](https://img.shields.io/badge/MUSIC_APP-purple?style=for-the-badge&logo=apple-music&logoColor=white)
 *   **The Concept**: A minimalist, high-fidelity music player for audiophiles.
 *   **Key Feature**: Dynamic 3D visualizers that react to your music in real-time.
 *   **Why it's next**: To bring a premium, distraction-free listening experience to your devices.
 
-#### 💬 **Messaging App**
+![](https://img.shields.io/badge/MESSAGING_APP-green?style=for-the-badge&logo=whatsapp&logoColor=white)
 *   **The Concept**: A secure, ultra-fast chat platform built for the modern age.
 *   **Key Feature**: Seamless integration with **LinkSync** for instant file sharing.
 *   **Why it's next**: To create a private ecosystem where your messages and data stay yours.
 
-#### 🔄 **Lync Sync**
+![](https://img.shields.io/badge/LYNC_SYNC-blue?style=for-the-badge&logo=transferwise&logoColor=white)
 *   **The Concept**: The ultimate bridge between your Phone and PC.
 *   **Key Feature**: Lightning-fast, one-tap file transfers without needing a cloud server.
 *   **Why it's next**: To solve the "how do I get this file to my computer?" problem once and for all.
