@@ -45,6 +45,8 @@
 ---
 
 ### 📫 Connect with Me
-*Always looking to collaborate on innovative projects.*
+*Always looking to collaborate on innovative projects. Feel free to reach out!*
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prit76415@gmail.com)
 
 </div>
