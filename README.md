@@ -1,29 +1,29 @@
-# 👋 Hi, I'm AlpineTxt
+<div align="center">
 
+# 👋 Hi, I'm AlpineTxt
 ### 🚀 Build Today, Inspire Tomorrow.
-I'm a passionate developer focused on building modern web applications, cross-platform mobile apps, and intelligent automation bots.
+
+<img src="profile-banner.png" width="100%" alt="AlpineTxt Banner" />
 
 ---
 
-## 🛠️ My Active Projects
+### 🛠️ Active Innovations
 
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| **[Stellar App](https://github.com/AlpineTxt/ProductivityApp)** | Smart notepad and reminder system. | 🟢 Active (Web/Flutter) |
-| **[Expense Manager](https://github.com/AlpineTxt/expense-manager)** | Track expenses and manage budgets with voice support. | 🟢 Active |
-| **[Birthday Greeting](https://github.com/AlpineTxt/birthday-greeting)** | Interactive web greeting with 3D-style animations. | 🌐 [Live Demo](https://alpinetxt.github.io/birthday-greeting/) |
+| **[Stellar App](https://github.com/AlpineTxt/ProductivityApp)** | Smart notepad and reminder system. | 🟢 Active |
+| **[Expense Manager](https://github.com/AlpineTxt/expense-manager)** | Track expenses with voice support. | 🟢 Active |
+| **[Birthday Greeting](https://github.com/AlpineTxt/birthday-greeting)** | Interactive web greeting animations. | 🌐 [Live Demo](https://alpinetxt.github.io/birthday-greeting/) |
 
 ---
 
-## 🔮 Upcoming Innovations (Future Projects)
+### 🔮 Future Roadmap
 
-- 🎵 **[Music App](https://github.com/AlpineTxt/MusicApp)**: A sleek, minimalist music experience.
-- 💬 **[Messaging App](https://github.com/AlpineTxt/MessagingApp)**: Secure, real-time chat with LinkSync integration.
-- 🔄 **Lync Sync**: Seamless Phone-to-PC file transfer.
+<img src="https://img.shields.io/badge/Next_Up-LinkSync-blue?style=for-the-badge&logo=transferwise" /> <img src="https://img.shields.io/badge/Future-Music_App-purple?style=for-the-badge&logo=apple-music" /> <img src="https://img.shields.io/badge/Future-Messaging_App-green?style=for-the-badge&logo=whatsapp" />
 
 ---
 
-## 📊 Technologies I Use
+### 📊 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -33,5 +33,7 @@ I'm a passionate developer focused on building modern web applications, cross-pl
 
 ---
 
-## 📫 Let's Connect!
-*I'm always looking to collaborate on innovative projects. Feel free to reach out!*
+### 📫 Connect with Me
+*Always looking to collaborate on innovative projects.*
+
+</div>
