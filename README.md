@@ -3,8 +3,6 @@
 # 👋 Hi, I'm AlpineTxt
 ### 🚀 Build Today, Inspire Tomorrow.
 
-<img src="profile-banner.png" width="100%" alt="AlpineTxt Banner" />
-
 ---
 
 ### 🛠️ Active Innovations
