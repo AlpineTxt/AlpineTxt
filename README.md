@@ -11,9 +11,9 @@
 
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| **[LinkSync](https://github.com/AlpineTxt/LinkSync)** | Messaging & file sync via Gmail backend. | 🟢 Active |
+| **[LinkSync](https://github.com/AlpineTxt/LinkSync)** | Messaging & file sync via Gmail backend. | 🛠️ In Progress |
 | **[Stellar App](https://github.com/AlpineTxt/ProductivityApp)** | Smart notepad and reminder system. | 🟢 Active |
-| **[YouTube Auto-Skip](https://github.com/AlpineTxt/youtube-autoskip)** | OpenCV-powered ad automation. | 🤖 Active |
+| **[YouTube Auto-Skip](https://github.com/AlpineTxt/youtube-autoskip)** | OpenCV-powered ad automation. | 🛠️ In Progress |
 | **[Fishing Bot](https://github.com/AlpineTxt/auto-fishing-bot-for-playtogether)** | Advanced game automation with CV. | 🤖 Active |
 | **[Expense Manager](https://github.com/AlpineTxt/expense-manager)** | Track expenses with voice support. | 🟢 Active |
 | **[Birthday Greeting](https://github.com/AlpineTxt/birthday-greeting)** | Interactive web greeting animations. | 🌐 [Live Demo](https://alpinetxt.github.io/birthday-greeting/) |
