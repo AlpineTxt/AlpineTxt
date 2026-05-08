@@ -7,7 +7,7 @@
 
 ---
 
-### ⚡ Active Innovations
+### ⚡ Active Projects
 
 | Project | Description | Status |
 | :--- | :--- | :--- |
@@ -19,14 +19,6 @@
 | **[Birthday Greeting](https://github.com/AlpineTxt/birthday-greeting)** | Interactive web greeting animations. | 🌐 [Live Demo](https://alpinetxt.github.io/birthday-greeting/) |
 | **Captured Moments** | A digital gallery for the memories that matter most. | 🌐 [Visit](https://jerry-cherry-playtogether.blogspot.com/) |
 | **[My Book Shelf](https://github.com/AlpineTxt/MyBookShelf)** | A digital library to track my reading journey. | ✅ Active |
-
----
-
-### 📊 GitHub Stats
-<p align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=AlpineTxt&show_icons=true&theme=tokyonight' alt='AlpineTxt Stats' />
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AlpineTxt&layout=compact&theme=tokyonight' alt='Most Used Languages' />
-</p>
 
 ---
 
