@@ -1,4 +1,4 @@
-<div align="center">
+<div align='center'>
 
 # 👋 Hi, I'm AlpineTxt
 ### 💡 Build Today, Inspire Tomorrow.
@@ -23,9 +23,9 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlpineTxt&show_icons=true&theme=tokyonight" alt="AlpineTxt's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlpineTxt&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+<p align='center'>
+  <img src='https://github-readme-stats.vercel.app/api?username=AlpineTxt&show_icons=true&theme=tokyonight' alt='AlpineTxt Stats' />
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AlpineTxt&layout=compact&theme=tokyonight' alt='Most Used Languages' />
 </p>
 
 ---
@@ -35,7 +35,7 @@
 #### 🔗 **LinkSync** (LYNC_SYNC)
 *   **The Concept**: The ultimate bridge between your Phone and PC.
 *   **Key Feature**: Lightning-fast, one-tap file transfers without needing a cloud server.
-*   **Why it's next**: To solve the "how do I get this file to my computer?" problem once and for all.
+*   **Why it's next**: To solve the 'how do I get this file to my computer?' problem once and for all.
 
 #### 💬 **Messaging App**
 *   **The Concept**: A secure, ultra-fast chat platform built for the modern age.
@@ -50,13 +50,13 @@
 ---
 
 ### 🛠️ Technologies & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<p align='center'>
+  <img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt='JavaScript' />
+  <img src='https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white' alt='Flutter' />
+  <img src='https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white' alt='Dart' />
+  <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' alt='Python' />
+  <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' alt='HTML5' />
+  <img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white' alt='CSS3' />
 </p>
 
 ---
@@ -64,9 +64,9 @@
 ### 📬 Connect with Me
 *Always looking to collaborate on innovative projects. Feel free to reach out!*
 
-<p align="center">
-  <a href="mailto:prit76415@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<p align='center'>
+  <a href='mailto:prit76415@gmail.com'>
+    <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' />
   </a>
 </p>
 
