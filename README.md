@@ -1,27 +1,27 @@
 <div align="center">
 
 # 👋 Hi, I'm AlpineTxt
-### 🚀 Build Today, Inspire Tomorrow.
+### 💡 Build Today, Inspire Tomorrow.
 
 🌐 **[View My Professional Portfolio](https://alpinetxt.github.io/professional-portfolio/)**
 
 ---
 
-### 🛠️ Active Innovations
+### ⚡ Active Innovations
 
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| **[LinkSync](https://github.com/AlpineTxt/LinkSync)** | Messaging & file sync via Gmail backend. | 🛠️ In Progress |
-| **[Stellar App](https://github.com/AlpineTxt/ProductivityApp)** | Smart notepad and reminder system. | 🟢 Active |
-| **[YouTube Auto-Skip](https://github.com/AlpineTxt/youtube-autoskip)** | OpenCV-powered ad automation. | 🛠️ In Progress |
-| **[Fishing Bot](https://github.com/AlpineTxt/auto-fishing-bot-for-playtogether)** | Advanced game automation with CV. | 🤖 Active |
-| **[Expense Manager](https://github.com/AlpineTxt/expense-manager)** | Track expenses with voice support. | 🟢 Active |
-| **[XYZ Store](https://github.com/AlpineTxt/xyz)** | Premium multi-page e-commerce storefront. | 🟢 [Live Demo](https://alpinetxt.github.io/Demo-store-website/) |
+| **[Stellar App](https://github.com/AlpineTxt/ProductivityApp)** | Smart notepad and reminder system. | ✅ Active |
+| **[YouTube Auto-Skip](https://github.com/AlpineTxt/youtube-autoskip)** | OpenCV-powered ad automation. | 🔧 In Progress |
+| **[Fishing Bot](https://github.com/AlpineTxt/auto-fishing-bot-for-playtogether)** | Advanced game automation with CV. | ✅ Active |
+| **[Expense Manager](https://github.com/AlpineTxt/expense-manager)** | Track expenses with voice support. | ✅ Active |
+| **[XYZ Store](https://github.com/AlpineTxt/xyz)** | Premium multi-page e-commerce storefront. | 🌐 [Live Demo](https://alpinetxt.github.io/Demo-store-website/) |
 | **[Birthday Greeting](https://github.com/AlpineTxt/birthday-greeting)** | Interactive web greeting animations. | 🌐 [Live Demo](https://alpinetxt.github.io/birthday-greeting/) |
+| **Captured Moments** | A digital gallery for the memories that matter most. | 🌐 [Visit](https://jerry-cherry-playtogether.blogspot.com/) |
 
 ---
 
-### 🔮 Future Roadmap (Upcoming Projects)
+### 🗺️ Future Roadmap (Upcoming Projects)
 
 ![](https://img.shields.io/badge/LYNC_SYNC-blue?style=for-the-badge&logo=transferwise&logoColor=white)
 *   **The Concept**: The ultimate bridge between your Phone and PC.
@@ -40,7 +40,7 @@
 
 ---
 
-### 📊 Technologies & Tools
+### 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -50,7 +50,7 @@
 
 ---
 
-### 📫 Connect with Me
+### 📬 Connect with Me
 *Always looking to collaborate on innovative projects. Feel free to reach out!*
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prit76415@gmail.com)
