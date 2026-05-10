@@ -12,7 +12,7 @@
 | Project | Description | Status |
 | :--- | :--- | :--- |
 | **[Stellar App](https://github.com/AlpineTxt/ProductivityApp)** | Smart notepad and reminder system. | ✅ Active |
-| **[YouTube Auto-Skip](https://github.com/AlpineTxt/youtube-autoskip)** | OpenCV-powered ad automation. | 🔧 In Progress |
+| **[YT downloader](https://github.com/AlpineTxt/youtube-autoskip)** | download videos and music | 🔧 In Progress |
 | **[Fishing Bot](https://github.com/AlpineTxt/auto-fishing-bot-for-playtogether)** | Advanced game automation with CV. | ✅ Active |
 | **[Expense Manager](https://github.com/AlpineTxt/expense-manager)** | Track expenses with voice support. | ✅ Active |
 | **[XYZ Store](https://github.com/AlpineTxt/xyz)** | Premium multi-page e-commerce storefront. | 🌐 [Live Demo](https://alpinetxt.github.io/Demo-store-website/) |
