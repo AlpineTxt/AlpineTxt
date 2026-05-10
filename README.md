@@ -11,7 +11,7 @@
 
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| **[YT downloader](https://github.com/AlpineTxt/yt-downloader)** | download videos and music | 🔧 In Progress |
+| **[YT downloader](https://github.com/AlpineTxt/yt-downloader)** | Easily download Youtube videos and music | 🔧 In Progress |
 | **[Stellar App](https://github.com/AlpineTxt/ProductivityApp)** | Smart notepad and reminder system. | ✅ Active |
 | **[Fishing Bot](https://github.com/AlpineTxt/auto-fishing-bot-for-playtogether)** | Advanced game automation with CV. | ✅ Active |
 | **[Expense Manager](https://github.com/AlpineTxt/expense-manager)** | Track expenses with voice support. | ✅ Active |
